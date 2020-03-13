@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tushar Tambe Profile</string>
+    <string name="name">Tushar Tambe</string>
+    <string name="role">Consultant</string>
+    <string name="know_more">Know More About Me</string>
+    <string name="tt">TT</string>
+    <string name="consultant_at_thoughtworks">Consultant at ThoughtWorks</string>
+    <string name="tushar_tambe">Tushar Tambe</string>
+</resources>
